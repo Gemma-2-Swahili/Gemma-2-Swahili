@@ -3,9 +3,9 @@
 # Gemma 2 Swahili 🌍
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow)](https://huggingface.co/gemma2-swahili)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow)](https://huggingface.co/collections/Alfaxad/gemma-2-swahili-678c96591c0169c0bc1d4c34)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Models-blue)](https://www.kaggle.com/models/gemma2-swahili)
-[![Documentation](https://img.shields.io/badge/Documentation-Technical%20Reports-green)](docs/)
+[![Documentation](https://img.shields.io/badge/Documentation-Technical%20Reports-green)](Technical-Reports/)
 
 Gemma 2 Swahili is a comprehensive suite of language models specifically adapted for Swahili language understanding and generation. This project brings advanced AI capabilities to over 200M Swahili speakers through efficient adaptation of Google's Gemma 2 models.
 
