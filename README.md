@@ -125,7 +125,7 @@ Models were fine-tuned using:
   author = {Eyembe, Alfaxad and Mtenga, Mrina},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/gemma2-swahili}
+  url = {https://github.com/Gemma-2-Swahili}
 }
 ```
 
