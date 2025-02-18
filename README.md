@@ -1,3 +1,5 @@
+![D](https://github.com/user-attachments/assets/85d65364-360c-40f6-b144-14543757b26b)
+
 # Gemma 2 Swahili 🌍
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
